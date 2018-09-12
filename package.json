@@ -1,0 +1,19 @@
+{
+  "name": "webduino-module-sht31",
+  "version": "1.0.0",
+  "description": "SHT31 Module for Webduino",
+  "main": "SHT31.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": [
+    "arduino",
+    "webduino",
+    "sht31"
+  ],
+  "dependencies": {
+    "webduino-js": "0.x"
+  }
+}

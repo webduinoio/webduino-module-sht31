@@ -1,0 +1,16 @@
+<category id="catSHT31" tags="fly,smart" index="2">
+  <block type="variables_set">
+    <field name="VAR">sht31</field>
+    <value name="VALUE">
+      <block type="sht31_new">
+        <field name="sda">10</field>
+        <field name="scl">11</field>
+      </block>
+    </value>
+  </block>
+  <block type="sht31_on">
+    <value name="do"></value>
+  </block>
+   <block type="sht31_val"></block>
+  <block type="sht31_off"></block>
+</category>

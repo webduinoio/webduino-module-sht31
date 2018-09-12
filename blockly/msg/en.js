@@ -1,0 +1,1 @@
+MSG.catSHT31 = "SHT31";

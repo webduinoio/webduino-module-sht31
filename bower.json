@@ -1,0 +1,19 @@
+{
+  "name": "webduino-module-sht31",
+  "description": "SHT31 Module for Webduino",
+  "main": "SHT31.js",
+  "authors": "",
+  "license": "ISC",
+  "keywords": [
+    "arduino",
+    "webduino",
+    "sht31"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "types": ["sht31_new", "sht31_on", "sht31_get_value", "sht31_off"],
+  "category": "catMenu3",
+  "scripts": [
+    "blockly/blocks.js",
+    "blockly/javascript.js"
+  ],
+  "dependencies": [
+    "SHT31.js",
+    "SHT31-blockly.js"
+  ],
+  "msg": "blockly/msg",
+  "blocksMsg": "blockly/msg/blocks",
+  "toolbox": "blockly/toolbox.xml"
+}
