@@ -3,7 +3,7 @@
   "description": "SHT31 Module for Webduino",
   "main": "SHT31.js",
   "authors": "",
-  "license": "ISC",
+  "license": "MIT",
   "keywords": [
     "arduino",
     "webduino",
