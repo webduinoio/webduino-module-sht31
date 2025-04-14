@@ -8,3 +8,4 @@ Blockly.Msg.WEBDUINO_SHT31_IS = "的";
 Blockly.Msg.WEBDUINO_SHT31_VAL = "数值";
 Blockly.Msg.WEBDUINO_SHT31_TEMP = "温度";
 Blockly.Msg.WEBDUINO_SHT31_HUM = "湿度";
+Blockly.Msg.WEBDUINO_SHT31_HELPURL = "https://resource.webduino.io/docs/cloud-component/sensor/dht-sensor";

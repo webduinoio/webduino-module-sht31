@@ -8,3 +8,4 @@ Blockly.Msg.WEBDUINO_SHT31_IS = "'s";
 Blockly.Msg.WEBDUINO_SHT31_VAL = "value";
 Blockly.Msg.WEBDUINO_SHT31_TEMP = "temperature";
 Blockly.Msg.WEBDUINO_SHT31_HUM = "humidity";
+Blockly.Msg.WEBDUINO_SHT31_HELPURL = "https://resource.webduino.io/docs/cloud-component/sensor/dht-sensor";
